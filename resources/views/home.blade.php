@@ -16,12 +16,6 @@
     </head>
     <body>
 
-        @php
-
-            $hello = 'Hello World!';
-
-        @endphp
-
         <h1>{{ $hello }}</h1>
 
     </body>
